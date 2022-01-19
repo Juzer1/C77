@@ -18,3 +18,7 @@ var minimum_number = Math.min(15,10);
 console.log(minimum_number);
 var power_eg_1 = Math.pow(4,2);
 console.log(power_eg_1);
+var a="arjun";
+var b="Gondalia";
+var c=a+b;
+console.log(c);
